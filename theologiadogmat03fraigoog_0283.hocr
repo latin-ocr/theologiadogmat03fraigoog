@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiadogmat03fraigoog_0283.png"; bbox 0 0 729 1177; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 985 91 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 985 91 1089">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 985 91 1089; baseline 0 88"><span class='ocrx_word' id='word_1_1' title='bbox 0 985 91 1089; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 999 638 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 145 999 638 1065">
+     <span class='ocr_line' id='line_1_2' title="bbox 169 999 638 1031; baseline 0.006 -7"><span class='ocrx_word' id='word_1_2' title='bbox 169 999 260 1025; x_wconf 60' lang='lat' dir='ltr'>Sani-tactio</span> <span class='ocrx_word' id='word_1_3' title='bbox 272 1009 371 1025; x_wconf 67' lang='lat' dir='ltr'>considerari</span> <span class='ocrx_word' id='word_1_4' title='bbox 382 1012 434 1031; x_wconf 71' lang='lat' dir='ltr'>poles!</span> <span class='ocrx_word' id='word_1_5' title='bbox 447 1010 510 1026; x_wconf 68' lang='lat' dir='ltr'>ratione</span> <span class='ocrx_word' id='word_1_6' title='bbox 518 1010 537 1026; x_wconf 81' lang='lat'>¹⁰</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 1010 612 1031; x_wconf 72' lang='lat' dir='ltr'>valoris,</span> <span class='ocrx_word' id='word_1_8' title='bbox 620 1010 638 1027; x_wconf 70' lang='lat'>2⁰</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 145 1033 570 1065; baseline 0.007 -15"><span class='ocrx_word' id='word_1_9' title='bbox 145 1034 223 1054; x_wconf 63' lang='lat' dir='ltr'>unctoria,</span> <span class='ocrx_word' id='word_1_10' title='bbox 233 1033 252 1050; x_wconf 71' lang='lat'>3⁰</span> <span class='ocrx_word' id='word_1_11' title='bbox 259 1034 316 1054; x_wconf 63' lang='lat' dir='ltr'>medii,</span> <span class='ocrx_word' id='word_1_12' title='bbox 325 1035 344 1050; x_wconf 58' lang='grc' dir='ltr'>ιθ</span> <span class='ocrx_word' id='word_1_13' title='bbox 352 1035 427 1056; x_wconf 71' lang='lat' dir='ltr'>subjecti,</span> <span class='ocrx_word' id='word_1_14' title='bbox 435 1036 453 1051; x_wconf 72' lang='lat'>5⁰</span> <span class='ocrx_word' id='word_1_15' title='bbox 462 1036 570 1065; x_wconf 48' lang='lat' dir='ltr'>perfectionis.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

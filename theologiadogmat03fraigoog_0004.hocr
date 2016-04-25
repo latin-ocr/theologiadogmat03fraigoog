@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiadogmat03fraigoog_0004.png"; bbox 0 0 2622 4154; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 132 1810 142 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 132 1810 142 1856">
+     <span class='ocr_line' id='line_1_1' title="bbox 132 1810 142 1856; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 138 1849 141 1856; x_wconf 76' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 132 1810 142 1818; x_wconf 71' lang='lat' dir='ltr'>o</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 159 1557 187 2128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 159 1557 187 2128">
+     <span class='ocr_line' id='line_1_2' title="bbox 159 1557 187 2128; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 170 2120 178 2128; x_wconf 72' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 167 2101 176 2108; x_wconf 61' lang='grc' dir='ltr'><strong>μ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 170 2080 178 2090; x_wconf 80' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 167 1983 186 2056; x_wconf 57' lang='grc' dir='ltr'>μεσιέκ</span> <span class='ocrx_word' id='word_1_7' title='bbox 160 1955 177 1971; x_wconf 58' lang='lat'>⁴.</span> <span class='ocrx_word' id='word_1_8' title='bbox 162 1861 186 1944; x_wconf 42' lang='lat' dir='ltr'>auu-:m-</span> <span class='ocrx_word' id='word_1_9' title='bbox 169 1813 182 1852; x_wconf 60' lang='grc' dir='ltr'>ἵε.</span> <span class='ocrx_word' id='word_1_10' title='bbox 159 1684 183 1803; x_wconf 46' lang='lat' dir='ltr'>›wau-21».</span> <span class='ocrx_word' id='word_1_11' title='bbox 169 1631 183 1666; x_wconf 51' lang='grc' dir='ltr'>...ἢ</span> <span class='ocrx_word' id='word_1_12' title='bbox 166 1595 187 1610; x_wconf 83' lang='grc' dir='ltr'>.ι.</span> <span class='ocrx_word' id='word_1_13' title='bbox 169 1557 183 1583; x_wconf 61' lang='grc' dir='ltr'>ην</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 184 1702 196 1825">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 184 1702 196 1825">
+     <span class='ocr_line' id='line_1_3' title="bbox 184 1702 196 1825; textangle 180"><span class='ocrx_word' id='word_1_14' title='bbox 184 1772 196 1825; x_wconf 64' lang='grc' dir='ltr'>,ΙΙ-</span> <span class='ocrx_word' id='word_1_15' title='bbox 184 1702 191 1758; x_wconf 67' lang='grc' dir='ltr'><strong>ΙΙΙ·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1316 4154">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1316 4154">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1316 4154; textangle 180"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1316 4154; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
